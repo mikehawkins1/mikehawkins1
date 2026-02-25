@@ -1,53 +1,45 @@
 # Mike Hawkins
 
-Systems & Reliability Engineer focused on infrastructure automation and cross-domain systems integration.
+Systems & Reliability Engineer working at the intersection of infrastructure automation and real-world physical systems.
 
 I design, build, automate, and troubleshoot complex systems that span software, electrical, and mechanical domains.
 
 ---
 
-## Core Focus Areas
+## What I Work On
 
+### Infrastructure & Reliability
 - Infrastructure as Code (Terraform)
 - AWS systems engineering & automation
-- Reliability engineering & failure analysis
-- Observability & telemetry design
-- Automation tooling (Python / Go)
-- Mechanical + electrical system diagnostics
-- Physical + digital systems integration
-
----
-
-## Systems Engineering Across Layers
-
-My work spans both digital infrastructure and physical systems.
-
-### Infrastructure & Automation
-- Cloud architecture & deployment (AWS)
-- CI/CD & operational automation
+- CI/CD pipelines & operational tooling
 - Linux systems & database platforms (PostgreSQL, Oracle)
-- Monitoring & incident response design
-- Reliability & redundancy planning
+- Observability, telemetry, and incident response design
+- Failure analysis & operational resilience
 
-### Applied Mechatronics & Physical Systems
+### Applied Systems & Mechatronics
 - CAD modeling (Fusion 360)
-- 3D printer modification & firmware (Klipper-based systems)
-- CNC & motion system design concepts
-- Embedded diagnostics & hardware troubleshooting
+- 3D printer architecture & firmware (Klipper-based systems)
+- Motion systems & CNC design principles
+- Embedded system diagnostics
 - CAN bus (J1939) familiarity
-- Electrical power & signal integrity troubleshooting
-- Hydraulic & mechanical systems integration
+- Electrical power distribution & signal troubleshooting
+- Mechanical & hydraulic system integration
 
 ---
 
-## Engineering Approach
+## Systems Philosophy
 
-I think in terms of:
+I approach engineering holistically.
 
-- Failure modes across layers
-- Signal flow (electrical, logical, mechanical)
-- System coupling & integration risk
-- Power, control, and data boundaries
-- Automation opportunities grounded in physical reality
+Systems fail at the boundaries — between hardware and software, power and logic, control and execution. My work focuses on understanding those boundaries and designing with failure modes in mind.
 
-I am particularly interested in roles involving infrastructure reliability, industrial systems, critical power environments, and automation where physical and digital layers intersect.
+I am particularly interested in:
+
+- Infrastructure reliability engineering
+- Critical power & industrial environments
+- Automation grounded in physical constraints
+- Systems where digital control interfaces with mechanical reality
+
+---
+
+Building systems that integrate cleanly, fail predictably, and scale responsibly.
